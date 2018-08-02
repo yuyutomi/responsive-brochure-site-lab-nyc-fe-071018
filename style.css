@@ -19,7 +19,7 @@
 .container {
   padding: 20px;
 }
-/*************  End Page overall layout ************* /
+/*************  End Page overall layout *********/
 /********* Header section *************/
 header {
   grid-area: header;
