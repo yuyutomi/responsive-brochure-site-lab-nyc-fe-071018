@@ -53,9 +53,11 @@ nav li {
 /*************  Fonts *************/
 h1 {
   font-size: 34px;
+  margin-bottom: 5px;
 }
 h2 {
   font-size: 28px;
+  margin-top: 5px;
 }
 /****************** End Fonts ******************/
 
@@ -70,7 +72,7 @@ h2 {
 }
 .therapist-info {
   width: 75%;
-}
+} 
 
 /*********** End Basic Information ***************/
 
