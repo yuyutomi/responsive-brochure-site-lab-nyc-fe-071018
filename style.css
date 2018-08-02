@@ -93,6 +93,11 @@ h2 {
 .media {
   display: flex;
 }
+.media img {
+  display: inline-block;
+  margin: auto;
+  width: 100%;
+}
 /*********** End Media section ***********/
 footer {
   grid-area: footer;
