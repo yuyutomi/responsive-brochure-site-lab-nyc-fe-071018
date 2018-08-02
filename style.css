@@ -23,6 +23,7 @@ aside {
   width: 200px;
   vertical-align: middle;
   margin: auto;
+  margin-left: 0px;
 }
 /*.main-nav {
   width: 80%
