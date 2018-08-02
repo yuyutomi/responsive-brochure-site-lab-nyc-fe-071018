@@ -55,6 +55,9 @@ nav li {
 /********* End Header section *******/ 
 
 /*************  Fonts *************/
+h1, h2, h3, h4, p, li {
+  
+}
 h1 {
   font-size: 34px;
   margin-bottom: 5px;
