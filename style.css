@@ -65,10 +65,10 @@ h2 {
   display: inline-flex;
 }
 .profile-photo {
-  width: 30%;
+  width: 40%;
 }
 .therapist-info {
-  width: 70%;
+  width: 60%;
 }
 
 /*********** End Basic Information ***************/
