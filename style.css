@@ -93,7 +93,7 @@ h2 {
 .media {
   display: flex;
 }
-.media .video {
+.media.video {
   padding-right: 10px;
 }
 .media.photos {
