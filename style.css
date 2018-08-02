@@ -41,6 +41,9 @@ aside {
   margin: auto;
   margin-left: 0px;
 }
+.logo h1 {
+  margin-top: 0px;
+}
 /*.main-nav {
   width: 80%
 }*/
