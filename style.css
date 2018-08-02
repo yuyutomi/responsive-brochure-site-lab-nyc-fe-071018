@@ -93,10 +93,10 @@ h2 {
 .media {
   display: flex;
 }
-.media video {
+.media .video {
   padding-right: 10px;
 }
-.media img {
+.media .photo {
   display: inline-block;
   margin: auto;
   width: 100%;
