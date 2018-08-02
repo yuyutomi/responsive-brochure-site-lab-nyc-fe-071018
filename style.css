@@ -62,9 +62,12 @@ h2 {
 
 /*********** Basic Information ***************/
 .basic-information {
-  display: flex;
+  display: inline-flex;
 }
-
+.profile-photo {
+  width: 30%;
+}
+.
 
 /*********** End Basic Information ***************/
 
