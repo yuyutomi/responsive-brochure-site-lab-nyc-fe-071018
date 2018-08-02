@@ -36,10 +36,9 @@ nav ul {
 nav li {
   padding: 0px 20px;
 }
-
 /* End Header section */ 
 
-/* Page overall layout */
+/************ Page overall layout *************/
 .wrapper {
   padding: 30px;
   display: grid;
@@ -49,17 +48,21 @@ nav li {
     "article article calendar"
     "footer footer footer"
 }
-/* End Page overall layout */
+/*************  End Page overall layout ************* /
 
-/* Fonts */
+/*************  Fonts ************* /
 h1 {
   font-size: 34px;
 }
 h2 {
   font-size: 28px;
 }
-/* End Fonts */
+/****************** End Fonts ******************/
 
+
+/****************** End Fonts ******************/
+
+/****************** End Fonts ******************/
 
 footer {
   grid-area: footer;
