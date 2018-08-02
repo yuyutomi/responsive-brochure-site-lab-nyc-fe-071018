@@ -63,12 +63,13 @@ h2 {
 /*********** Basic Information ***************/
 .basic-info {
   display: inline-flex;
+  width: 100%;
 }
 .profile-photo {
-  width: 40%;
+  width: 25%;
 }
 .therapist-info {
-  width: 60%;
+  width: 75%;
 }
 
 /*********** End Basic Information ***************/
