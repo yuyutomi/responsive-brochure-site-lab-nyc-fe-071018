@@ -70,11 +70,14 @@ h2 {
 }
 .profile-photo {
   width: 25%;
+  padding: 10px;
 }
 .therapist-info {
   width: 75%;
 } 
-
+.profile-photo img {
+  width: 100%;
+}
 /*********** End Basic Information ***************/
 
 footer {
