@@ -1,12 +1,13 @@
-/* Box-sizing border-box */
+/*********** Font import ********/
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+/*********** End Font import ********/
+
+/************ Page overall layout *************/
 * { 
   -moz-box-sizing: border-box; 
   -webkit-box-sizing: border-box; 
   box-sizing: border-box; 
 }
-
-
-/************ Page overall layout *************/
 .wrapper {
   padding: 30px;
   display: grid;
@@ -56,7 +57,7 @@ nav li {
 
 /*************  Fonts *************/
 h1, h2, h3, h4, p, li {
-  font-family: ;
+  font-family: 'Nunito' Sans-Serif;
 }
 h1 {
   font-size: 34px;
