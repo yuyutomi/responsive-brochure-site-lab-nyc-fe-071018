@@ -5,7 +5,22 @@
   box-sizing: border-box; 
 }
 
-/* Header section */
+
+/************ Page overall layout *************/
+.wrapper {
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+    "header header header" 
+    "article article calendar"
+    "footer footer footer"
+}
+.container {
+  padding: 20px;
+}
+/*************  End Page overall layout ************* /
+/********* Header section *************/
 header {
   grid-area: header;
   background: lightpink;
@@ -36,22 +51,7 @@ nav ul {
 nav li {
   padding: 0px 20px;
 }
-/* End Header section */ 
-
-/************ Page overall layout *************/
-.wrapper {
-  padding: 30px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas:
-    "header header header" 
-    "article article calendar"
-    "footer footer footer"
-}
-.container {
-  padding: 20px;
-}
-/*************  End Page overall layout ************* /
+/********* End Header section *******/ 
 
 /*************  Fonts *************/
 h1 {
