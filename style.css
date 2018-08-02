@@ -90,7 +90,9 @@ h2 {
 }
 /*********** End Basic Information ***************/
 /*********** Media section ***************/
-.
+.media {
+  display: flex;
+}
 /*********** End Media section ***********/
 footer {
   grid-area: footer;
