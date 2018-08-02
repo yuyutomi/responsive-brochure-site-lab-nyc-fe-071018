@@ -46,7 +46,8 @@ aside {
 nav ul {
   list-style: none; 
   display: flex;
-  justify-content: flex-end;;
+  justify-content: flex-end;
+  margin: 0px;
 }
 nav li {
   padding: 0px 20px;
