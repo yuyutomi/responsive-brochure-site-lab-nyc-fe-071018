@@ -93,10 +93,14 @@ h2 {
 .media {
   display: flex;
 }
-.media img {
+.media video {
+  padding-right: 10px;
+}
+media img {
   display: inline-block;
   margin: auto;
   width: 100%;
+  padding-left: 10px;
 }
 /*********** End Media section ***********/
 footer {
