@@ -98,6 +98,7 @@ h2 {
 }
 .photos {
   padding-left: 10px;
+  padding-bottom: 20px;
 }
 .photos img {
   display: inline-block;
