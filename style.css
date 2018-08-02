@@ -57,7 +57,7 @@ nav li {
 
 /*************  Fonts *************/
 h1, h2, h3, h4, p, li {
-  font-family: 'Nunito' Sans-Serif;
+  font-family: 'Nunito', Sans-Serif;
 }
 h1 {
   font-size: 34px;
