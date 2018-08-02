@@ -48,6 +48,9 @@ nav li {
     "article article calendar"
     "footer footer footer"
 }
+.container {
+  padding: 20px;
+}
 /*************  End Page overall layout ************* /
 
 /*************  Fonts *************/
