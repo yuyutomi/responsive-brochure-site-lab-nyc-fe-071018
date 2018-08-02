@@ -96,7 +96,7 @@ h2 {
 .media .video {
   padding-right: 10px;
 }
-.media .photo {
+.media.photos {
   display: inline-block;
   margin: auto;
   width: 100%;
