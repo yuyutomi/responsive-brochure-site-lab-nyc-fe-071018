@@ -50,7 +50,7 @@ nav li {
 }
 /*************  End Page overall layout ************* /
 
-/*************  Fonts ************* /
+/*************  Fonts *************/
 h1 {
   font-size: 34px;
 }
@@ -61,7 +61,9 @@ h2 {
 
 
 /*********** Basic Information ***************/
-
+.basic-information {
+  display: flex;
+}
 
 
 /*********** End Basic Information ***************/
