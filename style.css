@@ -145,28 +145,14 @@ footer {
   background: lightyellow;
 }
 
-
-/* Media Queries */
-/* @media (min-width: 600px) and (max-width: 900px) {
-  .container { 
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas:
-      "header header"
-      "photo section-2"
-      "section-3 section-3"
-      "footer footer"
-  }
-}*/
-
-
 @media (max-width: 600px) {
-  .container { 
-    grid-template-columns: 1fr;
+  .wrapper {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas:
-      "header"
-      "section-1"
-      "section-2"
-      "section-3"
-      "footer"
+      "header header header" 
+      "article article calendar"
+      "footer footer footer"
   }
 }
