@@ -31,6 +31,8 @@ header {
   display: flex;
   border-bottom: turquoise solid 1px;
   display: sticky;
+  position: -webkit-sticky;
+  position: sticky;
 } 
 .main-content {
   grid-area: article;
