@@ -154,3 +154,15 @@ footer {
       "footer footer"
   }
 }
+@media (max-width: 960px) {
+  .photos {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "header header" 
+      "article article"
+      "calendar calendar"
+      "footer footer"
+  }
+}
