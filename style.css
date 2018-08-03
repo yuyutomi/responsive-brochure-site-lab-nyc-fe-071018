@@ -29,6 +29,7 @@ header {
   grid-area: header;
   background: lightpink;
   display: flex;
+  border-bottom: turquoise;
 } 
 .main-content {
   grid-area: article;
