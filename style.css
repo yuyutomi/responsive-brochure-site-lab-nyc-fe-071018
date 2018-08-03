@@ -29,8 +29,7 @@ header {
   grid-area: header;
   /* background: lightpink;*/
   display: flex;
-  border-bottom: turquoise solid 1px;
-  display: sticky;
+  border-bottom: turquoise solid 1px; 
   position: -webkit-sticky;
   position: sticky;
 } 
