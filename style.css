@@ -111,8 +111,12 @@ ul {
 /*********** End Media section ***********/
 
 /*********** Specialties section *********/
-
-
+.specialties ul {
+  column-count: 2;
+}
+.specialties li {
+  margin-top: 0px;
+}
 /********* End Specialties section *********/
 footer {
   grid-area: footer;
