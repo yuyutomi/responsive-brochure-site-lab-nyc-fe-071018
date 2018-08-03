@@ -155,7 +155,9 @@ footer {
   }
 }
 @media (max-width: 960px) {
-  .media
+  .media {
+    display: inline-flex;
+  }
   .video {
     flex: 1;
   }
