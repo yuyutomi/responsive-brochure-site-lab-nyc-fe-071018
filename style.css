@@ -28,7 +28,7 @@ section {
 header {
   grid-area: header;
   /* background: lightpink;*/
-  display: flex;
+  display: block;
   border-bottom: turquoise solid 1px; 
   position: -webkit-sticky;
   position: sticky;
