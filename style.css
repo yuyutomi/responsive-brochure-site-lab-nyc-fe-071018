@@ -110,9 +110,11 @@ p {
 }
 .video {
   padding-right: 10px;
+  width: 60%;
 }
 .photos {
-  padding-left: 10px;;
+  padding-left: 10px;
+  width: 40%;
 }
 .photos img {
   display: inline-block;
