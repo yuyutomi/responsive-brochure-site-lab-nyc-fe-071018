@@ -21,7 +21,7 @@
   padding: 5px 20px;
 }
 section {
-  border-bottom: light gray 1px solid;
+  border-bottom: lightgray 1px solid;
 }
 /*************  End Page overall layout *********/
 /********* Header section *************/
@@ -36,7 +36,7 @@ header {
 }
 aside {
   grid-area: calendar;
-  background: turquoise;
+  /* background: turquoise;*/
 }
 .logo {
   width: 400px;
