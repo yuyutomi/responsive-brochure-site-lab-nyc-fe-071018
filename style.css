@@ -20,6 +20,9 @@
 .container {
   padding: 5px 20px;
 }
+section {
+  border-bottom: gray 1px;
+}
 /*************  End Page overall layout *********/
 /********* Header section *************/
 header {
