@@ -22,6 +22,7 @@
 }
 section {
   border-bottom: lightgray 1px solid;
+  border-width: 80%;
 }
 /*************  End Page overall layout *********/
 /********* Header section *************/
