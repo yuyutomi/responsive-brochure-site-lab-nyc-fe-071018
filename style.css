@@ -69,6 +69,9 @@ h2 {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+ul {
+  margin-top: 0px;
+}
 /****************** End Fonts ******************/
 
 
@@ -106,6 +109,11 @@ h2 {
   padding-bottom: 5px
 }
 /*********** End Media section ***********/
+
+/*********** Specialties section *********/
+
+
+/********* End Specialties section *********/
 footer {
   grid-area: footer;
   background: lightyellow;
