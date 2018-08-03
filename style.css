@@ -23,6 +23,9 @@
 section {
   border-bottom: lightgray 1px solid;
 }
+.calendar {
+  grid-area: calendar;
+}
 /*************  End Page overall layout *********/
 /********* Header section *************/
 header {
