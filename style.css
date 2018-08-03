@@ -155,6 +155,9 @@ footer {
   }
 }
 @media (max-width: 960px) {
+  .video {
+    display: inline-flex;
+  }
   .photos {
     display: inline-flex;
     flex-direction: row;
