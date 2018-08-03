@@ -29,7 +29,7 @@ header {
   grid-area: header;
   /* background: lightpink;*/
   display: flex;
-  border-bottom: turquoise;
+  border-bottom: turquoise solid 1px;
 } 
 .main-content {
   grid-area: article;
@@ -44,7 +44,7 @@ aside {
   vertical-align: middle;
   margin: auto;
   margin-left: 0px;
-  color: #37bec3s;
+  color: #37bec3;
 }
 .logo h1 {
   margin-top: 0px;
