@@ -82,18 +82,7 @@ ul {
 p {
   margin-top:0px;
 }
-/****************** End Fonts ******************/
-/******* Sticky calendar ************/
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 102px;
-}
-/******* End Sticky calendar ************/
+/****************** End Fonts ******************/ 
 
 /*********** Basic Information ***************/
 .basic-info {
