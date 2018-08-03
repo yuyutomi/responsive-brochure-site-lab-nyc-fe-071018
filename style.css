@@ -137,7 +137,7 @@ footer {
   background: lightyellow;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 960px) {
   .wrapper {
     padding: 30px;
     display: grid;
