@@ -116,6 +116,7 @@ ul {
 }
 .specialties li {
   margin-top: 0px;
+  list-style: none;
 }
 /********* End Specialties section *********/
 footer {
