@@ -29,7 +29,7 @@ header {
 } 
 .main-content {
   grid-area: article;
-  background: purple;
+  /* background: purple;*/
 }
 aside {
   grid-area: calendar;
