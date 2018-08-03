@@ -24,7 +24,7 @@
 /********* Header section *************/
 header {
   grid-area: header;
-  background: lightpink;
+  /* background: lightpink; */
   display: flex;
 } 
 .main-content {
