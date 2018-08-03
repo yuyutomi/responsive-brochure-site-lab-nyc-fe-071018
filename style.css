@@ -30,6 +30,7 @@ header {
   /* background: lightpink;*/
   display: flex;
   border-bottom: turquoise solid 1px;
+  display: sticky;
 } 
 .main-content {
   grid-area: article;
